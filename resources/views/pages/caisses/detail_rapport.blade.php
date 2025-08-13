@@ -1,0 +1,1 @@
+detail_rapport.blade.php
